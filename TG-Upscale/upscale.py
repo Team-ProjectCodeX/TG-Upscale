@@ -3,7 +3,6 @@
 #PROVIDED BY https://github.com/Team-ProjectCodeX
 
 #IMPORTS
-import requests as r
 import httpx, base64
 from pyrogram import filters
 
